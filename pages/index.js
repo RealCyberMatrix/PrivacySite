@@ -1,6 +1,6 @@
 // index.js
 import Link from "next/link";
-// import './style.css'
+// import './style.css' 
 
 export default function Index() {
   return (
