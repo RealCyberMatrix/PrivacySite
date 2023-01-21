@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Index() {
   return (
     <div>
-      <h1> Index </h1>
+      <h1> <a href="https://www.cybermatrix.xyz/" target="_blank">Cyber Matrix</a> </h1>
       <Link href="/about">
         <a> About </a>
       </Link>
